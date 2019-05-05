@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508966583074",
+    "firebase_url": "https://ejemploenviardatofirebasecurso.firebaseio.com",
+    "project_id": "ejemploenviardatofirebasecurso",
+    "storage_bucket": "ejemploenviardatofirebasecurso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508966583074:android:3b9e8c23eb88177c",
+        "android_client_info": {
+          "package_name": "com.example.ejemploenviardatofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508966583074-orq0s2ajhak3coffj2conmf6f9plmkls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemploenviardatofirebase",
+            "certificate_hash": "d9526239cd2d0093def3cbb0da65ae110f3217f2"
+          }
+        },
+        {
+          "client_id": "508966583074-8emj226qeu1t08u7pna01laq7hi9aajk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFD0ZpAjtBrFNz-Tkq6FQsjkPpN9rutRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508966583074-8emj226qeu1t08u7pna01laq7hi9aajk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
